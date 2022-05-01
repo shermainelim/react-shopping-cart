@@ -4,6 +4,5 @@ A e-commerce shopping create with React Context and Firebase Integration
 
 Link: https://react-shopping-cart-cwm.netlify.app/
 
-# Part 2 to Redux and Stripe
-
+# Part 2 to Redux
 https://github.com/shermainelim/react-shopping-cart-redux
